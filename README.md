@@ -26,6 +26,7 @@
 * [Intro to Computer Science](https://eu.udacity.com/course/intro-to-computer-science--cs101)
 * [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)
 * [Object-Oriented Programming](https://eu.udacity.com/course/programming-foundations-with-python--ud036)
+* [Project Euler exercices](https://projecteuler.net/)
 
 ## Git
 
