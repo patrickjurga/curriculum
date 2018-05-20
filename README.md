@@ -30,3 +30,4 @@
 ## Git
 
 * [atlassian git tutorial](https://www.atlassian.com/git/tutorials)
+* [How to write a git commit message](https://chris.beams.io/posts/git-commit/)
