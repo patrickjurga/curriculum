@@ -22,6 +22,7 @@
 * [html et CSS](https://eu.udacity.com/course/html-and-css-syntax--ud001)
 * [intro to JavaScript](https://eu.udacity.com/course/intro-to-javascript--ud803)
 * [intro to relational databases](https://eu.udacity.com/course/ud197)
+* [full-stack foundations](https://eu.udacity.com/course/full-stack-foundations--ud088)
 * [Mozilla - Learn web development](https://developer.mozilla.org/en-US/docs/Learn)
 
 ## Programmation (Python)
