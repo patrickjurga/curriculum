@@ -24,6 +24,7 @@
 * [intro to relational databases](https://eu.udacity.com/course/ud197)
 * [full-stack foundations](https://eu.udacity.com/course/full-stack-foundations--ud088)
 * [website perofrmance optimization](https://eu.udacity.com/course/website-performance-optimization--ud884)
+* [Browser rendering optimization](https://eu.udacity.com/course/browser-rendering-optimization--ud860)
 * [Mozilla - Learn web development](https://developer.mozilla.org/en-US/docs/Learn)
 
 ## Programmation (Python)
