@@ -23,6 +23,7 @@
 * [intro to JavaScript](https://eu.udacity.com/course/intro-to-javascript--ud803)
 * [intro to relational databases](https://eu.udacity.com/course/ud197)
 * [full-stack foundations](https://eu.udacity.com/course/full-stack-foundations--ud088)
+* [website perofrmance optimization](https://eu.udacity.com/course/website-performance-optimization--ud884)
 * [Mozilla - Learn web development](https://developer.mozilla.org/en-US/docs/Learn)
 
 ## Programmation (Python)
