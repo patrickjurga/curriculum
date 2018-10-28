@@ -1,11 +1,5 @@
 # curriculum
 
-## Bases de l'informatique
-
-* [Google IT Support Professional Certificate](https://www.coursera.org/specializations/google-it-support)
-* [Understanding Technology](https://www.edx.org/course/cs50s-understanding-technology)
-* [Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
-
 ## Bases de Linux
 
 * [linux journey](https://linuxjourney.com)
