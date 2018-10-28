@@ -4,7 +4,6 @@
 
 * [linux journey](https://linuxjourney.com)
 * Ward - How Linux works
-* [Linux Command Line Basics](https://eu.udacity.com/course/linux-command-line-basics--ud595)
 
 ## Editeur de texte
 
