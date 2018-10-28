@@ -1,6 +1,6 @@
 # curriculum
 
-## Bases de Linux
+## Linux
 
 * [linux journey](https://linuxjourney.com)
 * Ward - How Linux works
@@ -10,7 +10,7 @@
 * VIM
 * Vscode
 
-## Programmation (Python)
+## Python
 
 * [Intro to Computer Science](https://eu.udacity.com/course/intro-to-computer-science--cs101)
 * [Object-Oriented Programming](https://eu.udacity.com/course/programming-foundations-with-python--ud036)
