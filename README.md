@@ -14,12 +14,17 @@
 
 * [Intro to Computer Science](https://eu.udacity.com/course/intro-to-computer-science--cs101)
 * [Object-Oriented Programming](https://eu.udacity.com/course/programming-foundations-with-python--ud036)
-* [Project Euler exercices](https://projecteuler.net/)
+
+## Exercices de programmation
+
+* [Project Euler](https://projecteuler.net/)
+* [Advent of Code](https://adventofcode.com/)
 
 ## Git
 
+* [Version Control with Git](https://eu.udacity.com/course/version-control-with-git--ud123)
+* [GitHub & Collaboration](https://eu.udacity.com/course/github-collaboration--ud456)
 * [Pro Git](https://git-scm.com/book/en/v2)
-* [atlassian git tutorial](https://www.atlassian.com/git/tutorials)
 * [How to write a git commit message](https://chris.beams.io/posts/git-commit/)
 
 ## dévelopement web
@@ -29,8 +34,8 @@
 * [Mozilla - Learn web development](https://developer.mozilla.org/en-US/docs/Learn)
 * [html et CSS](https://eu.udacity.com/course/html-and-css-syntax--ud001)
 * [responsive web design fundamentals](https://eu.udacity.com/course/responsive-web-design-fundamentals--ud893)
-* [Responsive Images](https://eu.udacity.com/course/responsive-images--ud882)
 * [intro to JavaScript](https://eu.udacity.com/course/intro-to-javascript--ud803)
+* [Responsive Images](https://eu.udacity.com/course/responsive-images--ud882)
 * [intro to jQuery](https://eu.udacity.com/course/intro-to-jquery--ud245)
 * [objet oriented javascript](https://eu.udacity.com/course/object-oriented-javascript--ud015)
 * [HTML5 Canvas](https://eu.udacity.com/course/html5-canvas--ud292)
