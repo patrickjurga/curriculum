@@ -22,8 +22,9 @@
 
 ## Git
 
+* [Version Control with Git](https://eu.udacity.com/course/version-control-with-git--ud123)
+* [GitHub & Collaboration](https://eu.udacity.com/course/github-collaboration--ud456)
 * [Pro Git](https://git-scm.com/book/en/v2)
-* [atlassian git tutorial](https://www.atlassian.com/git/tutorials)
 * [How to write a git commit message](https://chris.beams.io/posts/git-commit/)
 
 ## dévelopement web
