@@ -14,7 +14,11 @@
 
 * [Intro to Computer Science](https://eu.udacity.com/course/intro-to-computer-science--cs101)
 * [Object-Oriented Programming](https://eu.udacity.com/course/programming-foundations-with-python--ud036)
-* [Project Euler exercices](https://projecteuler.net/)
+
+## Exercices de programmation
+
+* [Project Euler](https://projecteuler.net/)
+* [Advent of Code](https://adventofcode.com/)
 
 ## Git
 
